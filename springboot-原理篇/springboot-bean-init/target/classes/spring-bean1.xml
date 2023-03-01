@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--   自定义bean的方式-->
+    <bean class="com.liuqiang.bean.Cat" id="cat"/>
+
+<!--  定义第三方bean的方式-->
+    <bean class="com.alibaba.druid.pool.DruidDataSource" id="dataSource"/>
+
+</beans>

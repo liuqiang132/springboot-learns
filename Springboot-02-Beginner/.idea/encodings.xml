@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springboot-01-Beginner-自定义starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springboot-02-Beginner-web环境模拟测试" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Springboot-03-Beginner-缓存" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-beginner-assignment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-05-beginner-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-06-beginner-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-07-beginner-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-bean-init" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-09-bean-load" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

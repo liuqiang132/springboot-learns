@@ -1,0 +1,8 @@
+spring:
+  task:
+    scheduling:
+      pool:
+        size: 10
+
+    execution:
+      thread-name-prefix: task_

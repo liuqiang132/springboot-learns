@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ip-spring-boot-starter/ip-spring-boot-starter.iml" filepath="$PROJECT_DIR$/ip-spring-boot-starter/ip-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-bean-init/springboot-bean-init.iml" filepath="$PROJECT_DIR$/springboot-bean-init/springboot-bean-init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-bean-load/springboot-bean-load.iml" filepath="$PROJECT_DIR$/springboot-bean-load/springboot-bean-load.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-bean-properties/springboot-bean-properties.iml" filepath="$PROJECT_DIR$/springboot-bean-properties/springboot-bean-properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-starter-test-01/springboot-starter-test-01.iml" filepath="$PROJECT_DIR$/springboot-starter-test-01/springboot-starter-test-01.iml" />
+    </modules>
+  </component>
+</project>

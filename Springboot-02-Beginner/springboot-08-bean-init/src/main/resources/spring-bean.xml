@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--自定义bean-->
+    <bean class="com.liuqiang.bean.Book" id="book"/>
+
+
+    <!--定义第三方bean-->
+    <bean class="com.alibaba.druid.pool.DruidDataSource" id="dataSource"/>
+    <bean class="com.alibaba.druid.pool.DruidDataSource" />
+    <bean class="com.alibaba.druid.pool.DruidDataSource" />
+    <bean class="com.alibaba.druid.pool.DruidDataSource" />
+    <bean class="com.alibaba.druid.pool.DruidDataSource" />
+
+
+
+</beans>

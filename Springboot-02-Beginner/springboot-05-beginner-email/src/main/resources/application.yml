@@ -1,0 +1,5 @@
+spring:
+  mail:
+    host: smtp.yeah.net
+    username: liu1325921@yeah.net
+    password: ANTYXJLHBNDSVCTJ

@@ -1,0 +1,6 @@
+server:
+  port: 8816
+
+spring:
+  cache:
+    type: ehcache

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.liuqiang</groupId>
+    <artifactId>Springboot-01-bastic</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <!--springboot父工程依赖-->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.5.RELEASE</version>
+    </parent>
+
+    <!--子模块-->
+    <modules>
+        <module>Springboot-01-quickstart</module>
+        <module>Springboot-02-configuration</module>
+        <module>Springboot-03-整合JUnit</module>
+        <module>Springboot-04-整合Mybatis</module>
+        <module>Springboot-05-整合Mybatis-Plus</module>
+        <module>Springboot-06-整合Druid</module>
+        <module>Springboot-07-SSMP案例</module>
+        <module>Springboot-08-整合通用Mapper</module>
+        <module>Springboot-09-整合redis</module>
+        <module>Springboot-11-整合Elasticsearch</module>
+        <module>Springboot-12-整合Mongdb</module>
+        <module>Springboot-13-热部署</module>
+    </modules>
+
+    <!--版本控制-->
+    <properties>
+        <boot.project.version>2.2.5.RELEASE</boot.project.version>
+    </properties>
+
+    <!--版本的统一管理-->
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-web</artifactId>
+                <version>${boot.project.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-test</artifactId>
+                <version>${boot.project.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>1.18.24</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    <!--插件管理-->
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+
+</project>

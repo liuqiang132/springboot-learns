@@ -1,0 +1,23 @@
+
+#端口号
+server:
+  port: 80
+#数据库的配置
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/ssmp?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+      username: root
+      password: root
+
+#配置mp的表与类的映射关系
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tbl_
+
+#r日志输出处理
+logging:
+  level:
+    com.liuqiang.mapper: debug

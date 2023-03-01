@@ -1,0 +1,7 @@
+cartoon:
+   Cat:
+     name: liuqiang
+     age: 4
+   Mouse:
+     name: jerry
+     age: 5

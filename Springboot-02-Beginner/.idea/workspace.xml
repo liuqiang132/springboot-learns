@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef603c81-6c63-4acf-98cd-4ff82b588fc9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-09-bean-load/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-07-beginner-admin/target/" />
+    <ignored path="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-08-bean-init/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-06-beginner-mq/target/" />
+    <ignored path="$PROJECT_DIR$/Springboot-02-Beginner-web环境模拟测试/target/" />
+    <ignored path="$PROJECT_DIR$/Springboot-03-Beginner-缓存/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-05-beginner-email/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-04-beginner-assignment/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Springboot-02-Beginner" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/AutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/DemoProperties.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/auto/AutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/properties/PersonProperties.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/DemoModule.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/fun/PersonFun.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/auto/PersonAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/test/java/com/liuqiang/test.java" />
+        <option value="$PROJECT_DIR$/Springboot-01-Beginner-自定义starter/src/main/java/com/liuqiang/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-02-Beginner-web环境模拟测试/src/main/java/com/liuqiang/WebMockApp.java" />
+        <option value="$PROJECT_DIR$/Springboot-02-Beginner-web环境模拟测试/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-02-Beginner-web环境模拟测试/src/main/java/com/liuqiang/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/Springboot-02-Beginner-web环境模拟测试/src/test/java/com/liuqinag/test.java" />
+        <option value="$PROJECT_DIR$/Springboot-03-Beginner-缓存/src/main/java/com/liuqiang/CacheApp.java" />
+        <option value="$PROJECT_DIR$/Springboot-03-Beginner-缓存/src/main/java/com/liuqiang/controller/CacheController2.java" />
+        <option value="$PROJECT_DIR$/Springboot-03-Beginner-缓存/src/main/java/com/liuqiang/controller/CacheController.java" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/src/main/java/com/example/Springboot05BeginnerEmailApplication.java" />
+        <option value="$PROJECT_DIR$/Springboot-03-Beginner-缓存/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-03-Beginner-缓存/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/quartz/QuarazApp.java" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/quartz/QuartzApp.java" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/Springboot04BeginnerAssignmentApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/quartz/MyQuatrzBean.java" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/config/QuartzConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/src/main/java/com/example/service/SendSmsService.java" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/src/test/java/com/example/Springboot05BeginnerEmailApplicationTests.java" />
+        <option value="$PROJECT_DIR$/springboot-05-beginner-email/src/main/java/com/example/service/SendSmsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/task/TimerTaskApp.java" />
+        <option value="$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/quartz/MyQuartzBean.java" />
+        <option value="$PROJECT_DIR$/springboot-06-beginner-mq/src/main/resources/application.properties" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/src/main/java/App1.java" />
+        <option value="$PROJECT_DIR$/springboot-07-beginner-admin/src/main/java/com/liuqiang/Springboot07BeginnerAdminApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-07-beginner-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-beginner-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/bean/Book.java" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/src/main/resources/spring-bean.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App1.java" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App2.java" />
+        <option value="$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App3.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0\Repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-08-bean-init" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-08-bean-init" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-08-bean-init" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-context:5.1.19.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-08-bean-init" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.alibaba:druid-spring-boot-starter:1.2.15" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="15" />
+    <option name="width" value="1935" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="2MOoLRMtkWfdBD1nuePbSFQhIrS" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Springboot-02-Beginner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-02-Beginner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-02-Beginner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-02-Beginner" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-04-beginner-assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-02-Beginner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-02-Beginner" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-04-beginner-assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-02-Beginner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-02-Beginner" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-04-beginner-assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="docker&#9;ACTION&#9;ActivateDockerToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1677574416809" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33669186" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liuqiang" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liuqiang" />
+      <recent name="com.liuqiang.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App1">
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuqiang.App1" />
+      <module name="springboot-08-bean-init" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuqiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimerTaskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuqiang.task.TimerTaskApp" />
+      <module name="springboot-04-beginner-assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuqiang.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-05-beginner-email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot05BeginnerEmailApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-05-beginner-email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.Springboot05BeginnerEmailApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoadss" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07BeginnerAdminApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-07-beginner-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuqiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liuqiang" />
+      <option name="MAIN_CLASS_NAME" value="com.liuqiang.Springboot07BeginnerAdminApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04BeginnerAssignmentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-beginner-assignment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuqiang.Springboot04BeginnerAssignmentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot05BeginnerEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-05-beginner-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Springboot05BeginnerEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot06BeginnerMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-06-beginner-mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuqiang.Springboot06BeginnerMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07BeginnerAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-07-beginner-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liuqiang.Springboot07BeginnerAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Springboot04BeginnerAssignmentApplication" />
+      <item itemvalue="Spring Boot.Springboot05BeginnerEmailApplication" />
+      <item itemvalue="Spring Boot.Springboot06BeginnerMqApplication" />
+      <item itemvalue="Spring Boot.Springboot07BeginnerAdminApplication" />
+      <item itemvalue="Application.TimerTaskApp" />
+      <item itemvalue="Application.App1" />
+      <item itemvalue="JUnit.Springboot05BeginnerEmailApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.Springboot05BeginnerEmailApplicationTests.contextLoadss" />
+      <item itemvalue="JUnit.Springboot07BeginnerAdminApplicationTests.contextLoads" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App1" />
+        <item itemvalue="Application.TimerTaskApp" />
+        <item itemvalue="JUnit.Springboot07BeginnerAdminApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Springboot05BeginnerEmailApplicationTests.contextLoadss" />
+        <item itemvalue="JUnit.Springboot05BeginnerEmailApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef603c81-6c63-4acf-98cd-4ff82b588fc9" name="Default Changelist" comment="" />
+      <created>1677048569530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677048569530</updated>
+      <workItem from="1677048572243" duration="27000" />
+      <workItem from="1677049302178" duration="386000" />
+      <workItem from="1677049694041" duration="2464000" />
+      <workItem from="1677052184600" duration="1919000" />
+      <workItem from="1677054368553" duration="173000" />
+      <workItem from="1677144479154" duration="409000" />
+      <workItem from="1677344925677" duration="2226000" />
+      <workItem from="1677380535184" duration="787000" />
+      <workItem from="1677383998655" duration="8079000" />
+      <workItem from="1677404228524" duration="9062000" />
+      <workItem from="1677467542219" duration="719000" />
+      <workItem from="1677473637385" duration="23000" />
+      <workItem from="1677475753032" duration="53000" />
+      <workItem from="1677478718351" duration="2145000" />
+      <workItem from="1677480877464" duration="452000" />
+      <workItem from="1677481334149" duration="1527000" />
+      <workItem from="1677548214753" duration="1336000" />
+      <workItem from="1677557366911" duration="772000" />
+      <workItem from="1677647940341" duration="13000" />
+      <workItem from="1677682448464" duration="491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 22h 58m 44s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 23h 03m 21s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 23h 04m 01s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 23h 04m 55s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 23h 06m 35s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 23h 07m 24s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoads - 2023.02.26 at 23h 08m 24s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.26 at 23h 19m 03s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot05BeginnerEmailApplicationTests_contextLoadss - 2023.02.27 at 13h 29m 30s.xml">
+      <configuration name="Springboot05BeginnerEmailApplicationTests.contextLoadss" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Springboot07BeginnerAdminApplicationTests_contextLoads - 2023.02.27 at 15h 02m 25s.xml">
+      <configuration name="Springboot07BeginnerAdminApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33050000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.16966067" />
+      <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" weight="0.25268096" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5028329" side_tool="true" weight="0.31903484" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9957507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" weight="0.32577905" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.44475922" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.39209116" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.21447721" />
+      <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" weight="0.28753352" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5028329" side_tool="true" weight="0.31903484" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9957507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.46175638" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.32707775" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/config/QuartzConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-05-beginner-email/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE.jar!/org/springframework/mail/javamail/JavaMailSender.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/mail/jakarta.mail/1.6.5/jakarta.mail-1.6.5.jar!/javax/mail/internet/MimeMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="198" column="16" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/mail/jakarta.mail/1.6.5/jakarta.mail-1.6.5-sources.jar!/javax/mail/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE-sources.jar!/org/springframework/mail/javamail/MimeMessageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="201" column="53" lean-forward="true" selection-start-line="201" selection-start-column="53" selection-end-line="201" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-05-beginner-email/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-05-beginner-email/src/main/java/com/example/Springboot05BeginnerEmailApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-05-beginner-email/src/main/java/com/example/service/SendSmsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/mail/jakarta.mail/1.6.5/jakarta.mail-1.6.5-sources.jar!/javax/mail/internet/MimeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7488">
+          <caret line="442" column="16" selection-start-line="442" selection-start-column="16" selection-end-line="442" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.2.6.RELEASE/spring-context-support-5.2.6.RELEASE-sources.jar!/org/springframework/mail/javamail/JavaMailSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk-8u341/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-05-beginner-email/src/main/java/com/example/service/SendSmsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/mail/jakarta.mail/1.6.5/jakarta.mail-1.6.5-sources.jar!/com/sun/mail/smtp/SMTPMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="113" column="34" selection-start-line="113" selection-start-column="34" selection-end-line="113" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/task/TimerTaskApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/quartz/QuartzApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/quartz/MyQuartzBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/src/main/java/com/liuqiang/Springboot04BeginnerAssignmentApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.26/snakeyaml-1.26-sources.jar!/org/yaml/snakeyaml/Yaml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="87" column="7" lean-forward="true" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-05-beginner-email/src/test/java/com/example/Springboot05BeginnerEmailApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-06-beginner-mq/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.liuqiang.Springboot07BeginnerAdminApplication">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.liuqiang.Springboot07BeginnerAdminApplication</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.liuqiang.Springboot07BeginnerAdminApplication</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="51.0" y="-73.0" />
+          <SelectedNodes>
+            <node>com.liuqiang.Springboot07BeginnerAdminApplication</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.liuqiang.Springboot06BeginnerMqApplication">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.liuqiang.Springboot06BeginnerMqApplication</OriginalElement>
+          <nodes>
+            <node x="21.5" y="-228.0">org.springframework.boot.autoconfigure.SpringBootApplication</node>
+            <node x="-486.0" y="-148.0">com.liuqiang.Springboot06BeginnerMqApplication</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.liuqiang.Springboot06BeginnerMqApplication" target="org.springframework.boot.autoconfigure.SpringBootApplication">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-364.0" y="-33.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk-8u341/src.zip!/java/lang/annotation/Inherited.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="40" selection-start-line="40" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="79" column="40" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="81" column="25" lean-forward="true" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/java/App1.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE-sources.jar!/org/springframework/boot/SpringBootConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7866">
+          <caret line="460" column="23" selection-start-line="460" selection-start-column="23" selection-end-line="460" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-07-beginner-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-07-beginner-admin/src/main/java/com/liuqiang/Springboot07BeginnerAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-07-beginner-admin/src/test/java/com/liuqiang/Springboot07BeginnerAdminApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-06-beginner-mq/src/main/java/com/liuqiang/Springboot06BeginnerMqApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-09-bean-load/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.0.RELEASE/spring-boot-dependencies-2.3.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2862">
+          <caret line="54" column="55" lean-forward="true" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.3.0.RELEASE/spring-boot-starter-parent-2.3.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-06-beginner-mq/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.19/spring-context-5.3.19.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.2.15/druid-1.2.15-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="158" lean-forward="true" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/bean/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/resources/spring-bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-08-bean-init/src/main/java/com/liuqiang/App1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-04-beginner-assignment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (Springboot-01-Beginner-自定义starter)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33669186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Springboot-01-Beginner-自定义starter</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33669186" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33669186" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

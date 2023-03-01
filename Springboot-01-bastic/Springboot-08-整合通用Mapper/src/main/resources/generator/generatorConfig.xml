@@ -1,0 +1,33 @@
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+
+    <!--元素用于指定生成一组对象的环境，例如指定要连接的数据库，要生成对象的类型个要处理的数据库中的表-->
+    <context id="Mysql" targetRuntime="MyBatis3Simple" defaultModelType="flat">
+
+        <plugin type="tk.mybatis.mapper.generator.MapperPlugin">
+            <property name="mappers" value="tk.mybatis.mapper.common.Mapper"/>
+            <!-- caseSensitive默认false，当数据库表名区分大小写时，可以将该属性设置为true -->
+            <property name="caseSensitive" value="true"/>
+        </plugin>
+
+        <!--用于指定数据库连接信息，该元素必选，并且只能有一个-->
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/spring_db"
+                        userId="root"
+                        password="root">
+        </jdbcConnection>
+
+        <javaModelGenerator targetPackage="entity" targetProject="C:\Users\liuqianh132\Desktop\Springboot-01-bastic\Springboot-08-整合通用Mapper\src\main\java\com\liuqiang"/>
+
+        <sqlMapGenerator targetPackage="mapper"  targetProject="C:\Users\liuqianh132\Desktop\Springboot-01-bastic\Springboot-08-整合通用Mapper\src\main\resources"/>
+
+        <javaClientGenerator targetPackage="mapper" targetProject="C:\Users\liuqianh132\Desktop\Springboot-01-bastic\Springboot-08-整合通用Mapper\src\main\java\com\liuqiang" type="XMLMAPPER" />
+
+        <table tableName="%" >
+            <generatedKey column="id" sqlStatement="Mysql" identity="true"/>
+        </table>
+    </context>
+</generatorConfiguration>

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "cartoon",
+      "type": "com.liuqiang.bean.CartoonProperties",
+      "sourceType": "com.liuqiang.bean.CartoonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cartoon.cat",
+      "type": "com.liuqiang.bean.Cat",
+      "sourceType": "com.liuqiang.bean.CartoonProperties"
+    },
+    {
+      "name": "cartoon.mouse",
+      "type": "com.liuqiang.bean.Mouse",
+      "sourceType": "com.liuqiang.bean.CartoonProperties"
+    }
+  ],
+  "hints": []
+}
